@@ -6,11 +6,12 @@
 3. 5 сентября. Отдых
 >![PID 1](https://github.com/Smarzhic/Drive/blob/main/img/GK.jpg) 
 4. 6 сентября. Если едем в 2 машины проводим скатку. Если 1 выдвигаемся на маршрут.
-5. 1 участок. Ду-Ду-Гуш (киша) 1587м. Расстояние 189км - 7 сентября ночевка
+>![PID 1](https://github.com/Smarzhic/Drive/blob/main/img/sk.png)
+6. 1 участок. Ду-Ду-Гуш (киша) 1587м. Расстояние 189км - 7 сентября ночевка
 >![PID 1](https://github.com/Smarzhic/Drive/blob/main/img/gush.jpg) 
-6. 2 участок. Сундуки 2200м. Расстояние 220км. ночевка - 8 сентября
+7. 2 участок. Сундуки 2200м. Расстояние 220км. ночевка - 8 сентября
 >![PID 1](https://github.com/Smarzhic/Drive/blob/main/img/sunduki.jpg)
-7. 3 участок. Софийское седло 2640м. Расстояние 203км. ночевка -9 сентября
+8. 3 участок. Софийское седло 2640м. Расстояние 203км. ночевка -9 сентября
 >![PID 1](https://github.com/Smarzhic/Drive/blob/main/img/sof.jpg)
 11. 4 участок.  Урочище Джил-су 2400м. Расстояние 200км. ночевка - 10 сентября
 >![PID 1](https://github.com/Smarzhic/Drive/blob/main/img/ds.jpg)
