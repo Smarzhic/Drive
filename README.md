@@ -5,7 +5,7 @@
 2. 4 сентябя прибытие в Горячий ключ
 3. 5 сентября. Отдых
 >![PID 1](https://github.com/Smarzhic/Drive/blob/main/img/GK.jpg) 
-4. 6 сентября. Если едем в 2 машины проводим скатку. Если 1 выдвигаемся на маршрут.
+4. 6 сентября. Если едем в 2 машины проводим скатку (80км). Если 1 выдвигаемся на маршрут.
 >![PID 1](https://github.com/Smarzhic/Drive/blob/main/img/sk.png)
 6. 1 участок. Ду-Ду-Гуш (киша) 1587м. Расстояние 189км - 7 сентября ночевка
 >![PID 1](https://github.com/Smarzhic/Drive/blob/main/img/gush.jpg) 
